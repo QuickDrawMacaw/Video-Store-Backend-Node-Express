@@ -1,0 +1,6 @@
+{
+    "name": "My Video Store Express App - Development",
+    "mail": {
+        "host": "dev-mail-server"
+    }
+}
